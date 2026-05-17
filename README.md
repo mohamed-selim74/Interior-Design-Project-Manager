@@ -36,5 +36,6 @@ A comprehensive Desktop ERP \& Database application built to streamline interior
 
 \## 🔗 Project Resources
 
-\* 📊 \*\*\[View Project Presentation](https://docs.google.com/presentation/d/10BXPATUBE928qqZI70yZ58DCkjL93llB/edit?usp=drive\_link\&ouid=106912764886506274033\&rtpof=true\&sd=true)\*\*
+
+* 📊 **[View Project Presentation](https://drive.google.com/drive/folders/15WJMp6kx4XBw1ff72yvde116WFL1ioQ4?usp=sharing)**
 
