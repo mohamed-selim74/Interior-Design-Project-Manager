@@ -57,7 +57,7 @@ Successfully linked the Python application to the Oracle database using the `ora
 
 ## 🔗 Project Resources
 
-* 📊 **[View Project Presentation](https://drive.google.com/drive/folders/15WJMp6kx4XBw1ff72yvde1l6WFL1ioQ4?usp=sharing)**
+* 📊 **[View Project Presentation](https://drive.google.com/drive/folders/15WJMp6kx4XBw1ff72yvde116WFL1ioQ4?usp=sharing)**
 
 ## 🚀 How to Run
 
